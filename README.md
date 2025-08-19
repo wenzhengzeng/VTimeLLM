@@ -63,7 +63,7 @@ pip install -r requirements.txt
 Additionally, install additional packages for training cases.
 ```shell
 pip install ninja
-pip install flash-attn --no-build-isolation
+pip install flash-attn==1.0.9 --no-build-isolation
 ```
 
 
